@@ -8,10 +8,10 @@
 
 ## 🔗 Patterns
 
-- [Adapter]()
-- [Bridge]()
-- [Composite]()
-- [Decorator]()
-- [Facade]()
-- [Flyweight]()
-- [Proxy]()
+- [Adapter](https://github.com/cnnor/design-patterns-ts/blob/main/src/structural/Adapter.ts)
+- [Bridge](https://github.com/cnnor/design-patterns-ts/blob/main/src/structural/Bridge.ts)
+- [Composite](https://github.com/cnnor/design-patterns-ts/blob/main/src/structural/Composite.ts)
+- [Decorator](https://github.com/cnnor/design-patterns-ts/blob/main/src/structural/Decorator.ts)
+- [Facade](https://github.com/cnnor/design-patterns-ts/blob/main/src/structural/Facade.ts)
+- [Flyweight](https://github.com/cnnor/design-patterns-ts/blob/main/src/structural/Flyweight.ts)
+- [Proxy](https://github.com/cnnor/design-patterns-ts/blob/main/src/structural/Proxy.ts)
