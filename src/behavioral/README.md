@@ -8,13 +8,13 @@
 
 ## 🔗 Patterns
 
-- [Chain of Responsibility](https://github.com/cnnor/design-patterns-ts/behavioral/ChainOfResponsibility)
-- [Command](https://github.com/cnnor/design-patterns-ts/tree/main/src/behavioral/Command)
-- [Iterator](https://github.com/cnnor/design-patterns-ts/tree/main/src/behavioral/Iterator)
-- [Mediator](https://github.com/cnnor/design-patterns-ts/tree/main/src/behavioral/Mediator)
-- [Memento](https://github.com/cnnor/design-patterns-ts/tree/main/src/behavioral/Memento)
-- [Observer](https://github.com/cnnor/design-patterns-ts/tree/main/src/behavioral/Observer)
-- [State](https://github.com/cnnor/design-patterns-ts/tree/main/src/behavioral/State)
-- [Strategy](https://github.com/cnnor/design-patterns-ts/tree/main/src/behavioral/Strategy)
-- [Template Method](https://github.com/cnnor/design-patterns-ts/tree/main/src/behavioral/TemplateMethod)
-- [Visitor](https://github.com/cnnor/design-patterns-ts/tree/main/src/behavioral/Visitor)
+- [Chain of Responsibility](ChainOfResponsibility/)
+- [Command](Command/)
+- [Iterator](Iterator/)
+- [Mediator](Mediator/)
+- [Memento](Memento/)
+- [Observer](Observer/)
+- [State](State/)
+- [Strategy](Strategy/)
+- [Template Method](TemplateMethod/)
+- [Visitor](Visitor/)

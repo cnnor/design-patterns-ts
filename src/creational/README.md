@@ -8,8 +8,8 @@
 
 ## 🔗 Patterns
 
-- [Abstract Factory](https://github.com/cnnor/design-patterns-ts/tree/main/src/creational/AbstractFactory)
-- [Builder](https://github.com/cnnor/design-patterns-ts/tree/main/src/creational/Builder)
-- [Factory Method](https://github.com/cnnor/design-patterns-ts/tree/main/src/creational/FactoryMethod)
-- [Prototype](https://github.com/cnnor/design-patterns-ts/tree/main/src/creational/Prototype)
-- [Singleton](httpshttps://github.com/cnnor/design-patterns-ts/tree/main/src/creational/Singleton)
+- [Abstract Factory](AbstractFactory/)
+- [Builder](Builder/)
+- [Factory Method](FactoryMethod/)
+- [Prototype](Prototype/)
+- [Singleton](Singleton/)
