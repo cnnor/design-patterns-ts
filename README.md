@@ -2,15 +2,17 @@
   <h3 align="center">Design Patterns</h3>
 
   <p align="center">
-    [Design patterns](https://refactoring.guru/design-patterns/) implemented in TypeScript.
+    Design patterns implemented in TypeScript.
   </p>
 </p>
 
 ## ℹ️ About The Project
 
-Design patterns are reusable solutions to common problems in software design and engineering. They are templates for handling the creation, structure, and behavior of your system.
+[Design patterns](https://refactoring.guru/design-patterns/) are reusable solutions to common problems in software design and engineering. They are templates for handling the creation, structure, and behavior of your system.
 
 The most popular design patterns are implemented in this repository, using understandable analogies and simple use cases.
+
+**This is still a work-in-progress. Most of the patterns are not yet implemented.**
 
 ## ⚙️ Installation
 
