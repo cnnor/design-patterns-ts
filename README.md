@@ -10,6 +10,8 @@
 
 Design patterns are reusable solutions to common problems in software design and engineering. They are templates for handling the creation, structure, and behavior of your system.
 
+The most popular design patterns are implemented in this repository, using understandable analogies and simple use cases.
+
 ## ⚙️ Installation
 
 1. Use `git clone` to copy the new repository to your machine.
@@ -17,7 +19,7 @@ Design patterns are reusable solutions to common problems in software design and
 
 ## 🧰 Usage
 
-WIP
+As of now, the only way to interact with the patterns is through tests (`yarn run test` and `yarn run test:coverage`) using TS-Jest.
 
 ## 📜 License
 
