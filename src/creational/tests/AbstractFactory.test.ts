@@ -2,18 +2,18 @@ import {
   FactoryMaker,
   HumanArcher,
   HumanMage,
-  HumanTeamFactory,
+  HumanArmyFactory,
   HumanWarrior,
-  TeamType,
+  ArmyType,
 } from '../AbstractFactory';
 
 test('factory maker returns a human team factory', () => {
-  const humanFactory = FactoryMaker.makeFactory(TeamType.HUMAN);
-  expect(humanFactory).toBeInstanceOf(HumanTeamFactory);
+  const humanFactory = FactoryMaker.makeFactory(ArmyType.HUMAN);
+  expect(humanFactory).toBeInstanceOf(HumanArmyFactory);
 });
 
 test('human factory returns a human team', () => {
-  const humanFactory = FactoryMaker.makeFactory(TeamType.HUMAN);
+  const humanFactory = FactoryMaker.makeFactory(ArmyType.HUMAN);
   const archer = humanFactory.createArcher();
   const warrior = humanFactory.createWarrior();
   const mage = humanFactory.createMage();
@@ -27,7 +27,7 @@ test('human factory returns a human team', () => {
 });
 
 test('humans return description', () => {
-  const humanFactory = FactoryMaker.makeFactory(TeamType.HUMAN);
+  const humanFactory = FactoryMaker.makeFactory(ArmyType.HUMAN);
   const archer = humanFactory.createArcher();
   const warrior = humanFactory.createWarrior();
   const mage = humanFactory.createMage();
